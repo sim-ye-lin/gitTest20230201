@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-<h2>git edit</h2>
-<h2>eclipse update</h2>
-<h2>git update</h2>
->>>>>>> refs/remotes/origin/master
+
 </body>
 </html>
